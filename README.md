@@ -16,7 +16,7 @@ I'm constantly learning and expanding my skills, with a particular focus on AWS 
 ## 🧰 Tools and Technologies
 
 <img align="left" alt="Python" width="70px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /></div>
-<img align="left" alt="C++" width="70px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="70px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-wordmark.svg" />
 <img align="left" alt="HTML" width="70px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS" width="70px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="JavaScript" width="70px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
