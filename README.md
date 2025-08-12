@@ -1,6 +1,6 @@
 # _Aryan Singh_
 
-Hello there! 👋 I'm **Aryan Singh**, a passionate **DevOps Engineer** specializing in **Cloud, AWS** and **Linux**. Currently, I'm working at **Tata Consultancy Services** as an Assistant System Developer Trainee.
+Hello there! 👋 I'm **Aryan Singh**, a passionate **AI Engineer** specializing in **Cloud, AWS** and **Linux**. Currently, I'm working at **Tata Consultancy Services** as an Assistant System Engineer.
 
 I had also worked as **Intern** at **Infosys Springboard**, where I delved deeper into **Artificial Intelligence** and led a team of over **20 members** on exciting projects.
 I'm constantly learning and expanding my skills, with a particular focus on AWS and  Cloud Computing. Interested in collaborating on projects? Feel free to contact me! Looking forward to connecting with you! 😊</br></br>
