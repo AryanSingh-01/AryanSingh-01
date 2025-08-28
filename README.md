@@ -42,5 +42,5 @@ I'm constantly learning and expanding my skills, with a particular focus on AWS 
 
 ## 📊 GitHub Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=AryanSingh-01&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-stu&theme=algolia&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-stu&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AryanSingh-01&theme=algolia&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSingh-01&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
