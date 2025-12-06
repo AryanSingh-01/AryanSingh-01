@@ -6,7 +6,7 @@ I had also worked as **Intern** at **Infosys Springboard**, where I delved deepe
 I'm constantly learning and expanding my skills, with a particular focus on AWS and  Cloud Computing. Interested in collaborating on projects? Feel free to contact me! Looking forward to connecting with you! 😊</br></br>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan1311002@gmail.com)&nbsp;&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-1-j5fi.onrender.com/)&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://aryansingh.online/)&nbsp;&nbsp;&nbsp;
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-singh-485390252/)
 
 ----
